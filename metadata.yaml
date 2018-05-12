@@ -1,0 +1,30 @@
+_repo: Plain-Jane_23455
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fry, G. M. C.
+    gutenberg_agent_id: '25852'
+    url: http://www.gutenberg.org/2009/agents/25852
+covers:
+- cover_type: archival
+  image_path: 23455-h/images/cover.jpg
+creator:
+  author:
+    agent_name: George, G. M.
+    gutenberg_agent_id: '25853'
+    url: http://www.gutenberg.org/2009/agents/25853
+description: ''
+gutenberg_issued: '2007-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23455'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcsh 'Talebearing -- Juvenile poetry'
+- !lcc 'PZ'
+title: Plain Jane
+url: http://www.gutenberg.org/ebooks/23455
